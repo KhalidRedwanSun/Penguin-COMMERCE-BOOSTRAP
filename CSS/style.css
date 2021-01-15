@@ -1,0 +1,10 @@
+.box{
+    overflow:hidden;
+}
+.transi{
+    border: 5px solid purple;
+    height: 200px;
+    width: 300px;
+    transition: width 3s, height 5s e 5s;
+}
+
